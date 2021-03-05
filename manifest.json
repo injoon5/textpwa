@@ -3,7 +3,7 @@
     "display": "standalone",
     "start_url": "https://txt.injoon5.ga/",
     "short_name": "starter",
-    "theme_color": "#E1477E",
+    "theme_color": "#e0e0e0",
     "description": "A simple editor",
     "orientation": "any",
     "background_color": "#e0e0e0",
