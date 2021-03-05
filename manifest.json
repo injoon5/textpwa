@@ -1,0 +1,52 @@
+{
+    "name": "Text editor",
+    "display": "standalone",
+    "start_url": "https://txt.injoon5.ga/",
+    "short_name": "starter",
+    "theme_color": "#E1477E",
+    "description": "A simple editor",
+    "orientation": "any",
+    "background_color": "#e0e0e0",
+    "related_applications": [],
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "[Embedded]",
+            "sizes": "512x512"
+        },
+        {
+            "src": "[Embedded]",
+            "sizes": "192x192"
+        },
+        {
+            "src": "[Embedded]",
+            "sizes": "48x48"
+        },
+        {
+            "src": "[Embedded]",
+            "sizes": "24x24"
+        }
+    ],
+    "features": [
+        "Cross Platform",
+        "fast",
+        "simple"
+    ],
+    "categories": [
+        "utility"
+    ],
+    "url": "https://txt.injoon5.ga",
+    "lang": "",
+    "screenshots": [
+        {
+            "src": "[Embedded]",
+            "sizes": "1280x800",
+            "type": "image/png"
+        },
+        {
+            "src": "[Embedded]",
+            "sizes": "750x1334",
+            "type": "image/png"
+        }
+    ]
+}
